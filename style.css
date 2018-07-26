@@ -1,0 +1,30 @@
+html {
+	font-size: 15px;
+	font-family: 'Kalam', cursive;
+	background-color: aqua;
+
+
+
+}
+
+img[src] {
+	display: block;
+	margin: 0 auto;
+}
+
+body {
+	background-color: rgb(20, 36, 77);
+	margin: 0 auto;
+	width: 600px;
+	padding: 0 20px 20px 20px;
+}
+
+h1 {
+	text-align: center;
+	letter-spacing: 3px;
+	text-shadow: 3px 3px 1px green;
+}
+
+p {
+	color: red;
+}
